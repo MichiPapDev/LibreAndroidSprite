@@ -1,3 +1,8 @@
 # ninja log v6
-22	6821	1769306606621206607	CMakeFiles/myapplication.dir/native-lib.cpp.o	1a4d7655afb2c2ab
-6836	7176	1769306613433206608	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/arm64-v8a/libmyapplication.so	d8f59c1c5bbd6aff
+8	1941	1769391999768002918	CMakeFiles/myapplication.dir/native-lib.cpp.o	1a4d7655afb2c2ab
+23	3670	1769392037792002920	CMakeFiles/myapplication.dir/parse_las.cpp.o	5e27e094ef3215b0
+3674	3918	1769392041444002921	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/arm64-v8a/libmyapplication.so	105a47d423cd68d1
+222	2679	1769392978620002977	CMakeFiles/myapplication.dir/native-lib.cpp.o	1a4d7655afb2c2ab
+2687	3190	1769392981084002977	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/arm64-v8a/libmyapplication.so	105a47d423cd68d1
+21	1910	1769392999332002978	CMakeFiles/myapplication.dir/native-lib.cpp.o	1a4d7655afb2c2ab
+1920	2150	1769393001232002978	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/arm64-v8a/libmyapplication.so	105a47d423cd68d1

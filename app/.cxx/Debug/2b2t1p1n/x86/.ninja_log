@@ -1,3 +1,8 @@
 # ninja log v6
-9	1987	1769306628989206608	CMakeFiles/myapplication.dir/native-lib.cpp.o	df1ec30509dcb3b
-2000	2209	1769306630981206609	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/x86/libmyapplication.so	52fbd18bb722d506
+16	1862	1769392052664002921	CMakeFiles/myapplication.dir/native-lib.cpp.o	df1ec30509dcb3b
+21	3852	1769392052668002921	CMakeFiles/myapplication.dir/parse_las.cpp.o	3a0bab514ccb0d6
+3853	4080	1769392056504002922	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/x86/libmyapplication.so	f3c5637fbc69bc9a
+26	1923	1769392984284002977	CMakeFiles/myapplication.dir/native-lib.cpp.o	df1ec30509dcb3b
+1931	2240	1769392986188002977	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/x86/libmyapplication.so	f3c5637fbc69bc9a
+21	1818	1769393003876002978	CMakeFiles/myapplication.dir/native-lib.cpp.o	df1ec30509dcb3b
+1823	2026	1769393005676002978	/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/x86/libmyapplication.so	f3c5637fbc69bc9a

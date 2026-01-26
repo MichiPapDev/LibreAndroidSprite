@@ -1,3 +1,1 @@
 ninja: Entering directory `/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/.cxx/Debug/2b2t1p1n/arm64-v8a'
-[1/2] Building CXX object CMakeFiles/myapplication.dir/native-lib.cpp.o
-[2/2] Linking CXX shared library /storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/build/intermediates/cxx/Debug/2b2t1p1n/obj/arm64-v8a/libmyapplication.so

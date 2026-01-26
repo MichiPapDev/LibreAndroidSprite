@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "myapplication::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-myapplication-Debug-ed019f5ba4001a2fb4b9.json",
+					"jsonFile" : "target-myapplication-Debug-a346fc3b885cd7b18340.json",
 					"name" : "myapplication",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/.cxx/Debug/2b2t1p1n/x86_64",
+		"build" : "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/.cxx/Debug/2b2t1p1n/x86",
 		"source" : "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/cpp"
 	},
 	"version" : 
