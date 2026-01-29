@@ -1,6 +1,14 @@
 [
     {
-        "merged": "com.libre.androidsprite.app-mergeDebugResources-35:/layout/activity_main.xml",
-        "source": "com.libre.androidsprite.app-main-38:/layout/activity_main.xml"
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.libre.androidsprite.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.libre.androidsprite.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.libre.androidsprite.app-mergeDebugResources-35:/layout/activity_menu.xml",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.libre.androidsprite.app-main-38:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.libre.androidsprite.app-mergeDebugResources-35:/layout/activity_menu.xml",
+        "source": "com.libre.androidsprite.app-main-38:/layout/activity_menu.xml"
     }
 ]

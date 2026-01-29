@@ -56,11 +56,11 @@
 34-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:9:9-54
 35        android:supportsRtl="true"
 35-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:10:9-35
-36        android:theme="@style/AppTheme" >
-36-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:11:9-40
+36        android:theme="@style/Theme.LibreAndroidSprite" >
+36-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:11:9-56
 37        <activity
 37-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:12:9-19:20
-38            android:name="com.libre.androidsprite.MainActivity"
+38            android:name="com.libre.androidsprite.MenuActivity"
 38-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:13:13-41
 39            android:exported="true" >
 39-->/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:14:13-36

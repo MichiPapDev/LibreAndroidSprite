@@ -93,8 +93,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/user/
 	android:allowBackup
 		ADDED from /storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.libre.androidsprite.MainActivity
+		ADDED from /storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:11:9-56
+activity#com.libre.androidsprite.MenuActivity
 ADDED from /storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:exported
 		ADDED from /storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml:14:13-36

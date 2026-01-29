@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- 🎨 Colores principales -->
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorOnAccent">#000000</color>
+
+    <!-- 🖼 Fondo -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+
+    <!-- 📝 Texto -->
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#666666</color>
+
+    <!-- 🧭 Sistema -->
+    <color name="colorPrimaryDark">#388E3C</color>
+
 </resources>

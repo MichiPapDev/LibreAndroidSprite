@@ -1,6 +1,26 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-  <style name="Base.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
-  </style>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 
-  <style name="AppTheme" parent="Base.AppTheme" />
+    <style name="Theme.LibreAndroidSprite"
+        parent="Theme.Material3.Dark.NoActionBar">
+
+        <!-- 🎨 Colores -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/colorOnAccent</item>
+
+        <item name="colorSurface">@color/colorSurface</item>
+
+        <!-- 🧭 Sistema -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorBackground</item>
+
+        <!-- ❌ Sin ActionBar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
 </resources>

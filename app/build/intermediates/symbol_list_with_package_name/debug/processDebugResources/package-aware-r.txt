@@ -1531,6 +1531,15 @@ color cardview_dark_background
 color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
+color colorAccent
+color colorBackground
+color colorOnAccent
+color colorOnPrimary
+color colorPrimary
+color colorPrimaryDark
+color colorSurface
+color colorTextPrimary
+color colorTextSecondary
 color design_bottom_navigation_shadow_color
 color design_box_stroke_color
 color design_dark_default_color_background
@@ -3667,6 +3676,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id Test
 id above
 id accelerate
 id accessibility_action_clickable_span
@@ -3747,6 +3757,7 @@ id autoLimit
 id availableSpace
 id axisRelative
 id barrier
+id base
 id baseline
 id beginOnFirstDraw
 id beginning
@@ -4294,6 +4305,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_menu
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -4564,13 +4576,11 @@ style Animation_Material3_SideSheetDialog
 style Animation_Material3_SideSheetDialog_Left
 style Animation_Material3_SideSheetDialog_Right
 style Animation_MaterialComponents_BottomSheetDialog
-style AppTheme
 style Base_AlertDialog_AppCompat
 style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog
 style Base_Animation_AppCompat_DropDownUp
 style Base_Animation_AppCompat_Tooltip
-style Base_AppTheme
 style Base_CardView
 style Base_DialogWindowTitle_AppCompat
 style Base_DialogWindowTitleBackground_AppCompat
@@ -5174,6 +5184,7 @@ style Theme_Design_Light
 style Theme_Design_Light_BottomSheetDialog
 style Theme_Design_Light_NoActionBar
 style Theme_Design_NoActionBar
+style Theme_LibreAndroidSprite
 style Theme_Material3_Dark
 style Theme_Material3_Dark_BottomSheetDialog
 style Theme_Material3_Dark_Dialog

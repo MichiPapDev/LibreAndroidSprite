@@ -1,0 +1,140 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/layout/activity_menu.xml",
+      "selection": {
+        "end": {
+          "column": 31,
+          "index": 877,
+          "line": 22
+        },
+        "start": {
+          "column": 31,
+          "index": 877,
+          "line": 22
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/java/com/libre/androidsprite/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 637,
+          "line": 25
+        },
+        "start": {
+          "column": 10,
+          "index": 637,
+          "line": 25
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/java/com/libre/androidsprite/MenuActivity.java",
+      "selection": {
+        "end": {
+          "column": 37,
+          "index": 435,
+          "line": 13
+        },
+        "start": {
+          "column": 37,
+          "index": 435,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 31,
+          "index": 552,
+          "line": 12
+        },
+        "start": {
+          "column": 31,
+          "index": 552,
+          "line": 12
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 380,
+          "line": 8
+        },
+        "start": {
+          "column": 4,
+          "index": 380,
+          "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/values/colors.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 615,
+          "line": 21
+        },
+        "start": {
+          "column": 12,
+          "index": 615,
+          "line": 21
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": 440,
+          "line": 13
+        },
+        "start": {
+          "column": 8,
+          "index": 440,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/values-night/colors.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 602,
+          "line": 20
+        },
+        "start": {
+          "column": 0,
+          "index": 602,
+          "line": 20
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/values-night/themes.xml",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": 439,
+          "line": 13
+        },
+        "start": {
+          "column": 8,
+          "index": 439,
+          "line": 13
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/LibreAndroidSprite/app/src/main/res/layout/activity_menu.xml"
+}
