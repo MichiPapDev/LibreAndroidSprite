@@ -1,1 +1,10 @@
-.gradie/
+.gradle/
+
+.acside/
+.editor/
+.idea/
+.vscode/
+*.iml
+local.properties
+
+build/
